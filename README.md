@@ -1,2 +1,2 @@
-Multi-Sig Wallet for the BMM Token
+Multi-Sig Wallet
 
